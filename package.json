@@ -1,0 +1,26 @@
+{
+  "name": "discordjs-template-bot",
+  "version": "1.0.0",
+  "description": "Template bot is a Discord.js template bot to help new users get off their feet.",
+  "main": "src/index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "!help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jimbolol123/Discordjs-Template-Bot.git"
+  },
+  "keywords": [
+    "Discordj"
+  ],
+  "author": "Jimbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jimbolol123/Discordjs-Template-Bot/issues"
+  },
+  "homepage": "https://github.com/Jimbolol123/Discordjs-Template-Bot#readme"
+}
